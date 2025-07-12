@@ -418,14 +418,14 @@ a:hover{
     background-position: bottom;
     background-repeat: no-repeat;
     /* background-image: url(/assets/images/portrait.webp); */
-     /* background-image: url( ); */
+     /* background-image: url(/assets/images/umendra11.png); */
 }
 
 @media (max-width: 576px) {
     #hero {
         padding: 35px 0px 0px 0px;
     }
-
+/* 
     .hero-portrait {
         position: relative;
         overflow: hidden;
@@ -446,9 +446,9 @@ a:hover{
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        /* background-image: url(/assets/images/umendraImage.png); */
+      background-image: url(/assets/images/umendra11.png);
           /* background-image: url(/assets/images/portrait.webp); */
-    }
+    /* } */ */
 
     .hero-content{
         margin-top: 35px;
